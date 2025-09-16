@@ -18,7 +18,7 @@ As a premed student with a computer science background, I bring a unique perspec
 These notes are intended for educational purposes, showcasing clinical exposure and reflective learning. They may be reviewed by medical school admissions committees, mentors, or peers interested in premed clinical experiences. All records are anonymized to ensure privacy and compliance with ethical standards.
 
 ## Contact
-For inquiries or feedback, please reach out via my personal [website](collingeorge9.wordpress.com/contact). I welcome opportunities to discuss my shadowing experiences and medical career aspirations.
+For inquiries or feedback, please reach out via my personal [website](https://collingeorge9.wordpress.com/contact). I welcome opportunities to discuss my shadowing experiences and medical career aspirations.
 
 ## Acknowledgments
 I am grateful to the physicians and healthcare teams who have mentored me during my shadowing experiences, providing invaluable insights into clinical practice and patient care.
