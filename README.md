@@ -9,7 +9,8 @@ All notes are fully de-identified to comply with HIPAA and institutional privacy
 - **Cardiothoracic Critical Care Shadowing**: Records of observations in critical care, focusing on diagnostic imaging (e.g., TTE, TEE) and discussions on palliative care.
   - [Cardiothoracic Critical Care (09/15/2025)](Critical_Care_Shadowing_09152025.md)
 - **Anesthesia Shadowing**: Planned notes from observing anesthesia management in orthopedic procedures, including induction, monitoring, and patient safety protocols.
-  - [Anesthesia Orthopedic (09/10/2025)](Anesthesia_Orthopedic_09102025.md)
+  - [Anesthesia Orthopedic Humerus (09/10/2025)](Anesthesia_Orthopedic_09102025.md)
+  - [Anesthesia Orthopedic Talus (09/10/2025)](Anesthesia_Talus_09102025.md)
 - **Future Additions**: Planned inclusion of de-identified notes from ongoing shadowing in various medical specialties.
 
 ## Background
