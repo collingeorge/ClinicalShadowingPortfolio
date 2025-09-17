@@ -12,7 +12,7 @@ All notes are fully de-identified to comply with HIPAA and institutional privacy
 - **Future Additions**: Planned inclusion of de-identified notes from ongoing shadowing in various medical specialties.
 
 ## Background
-As a premed student with a computer science background, I bring a unique perspective to clinical shadowing, combining technical precision (e.g., experience with Python, algorithms, and cybersecurity) with a passion for patient-centered care. My shadowing experiences at academic medical centers have deepened my understanding of medical procedures, teamwork, and ethical considerations, preparing me for medical school and a career as a physician.
+As a premed student with a computer science background, I bring a unique perspective to clinical shadowing, combining technical precision (e.g., experience with Python, algorithms, and cybersecurity) with a passion for patient-centered care. My shadowing experiences at academic medical centers have deepened my understanding of medical procedures, teamwork, and ethical considerations, preparing me for medical school and a career in healthcare.
 
 ## Usage
 These notes are intended for educational purposes, showcasing clinical exposure and reflective learning. They may be reviewed by medical school admissions committees, mentors, or peers interested in premed clinical experiences. All records are anonymized to ensure privacy and compliance with ethical standards.
