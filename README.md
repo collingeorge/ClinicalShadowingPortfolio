@@ -1,7 +1,7 @@
 # Clinical Shadowing Portfolio
 
 ## Overview
-Welcome to my Clinical Shadowing Portfolio, a collection of de-identified notes documenting my shadowing experiences as a premed student with a computer science background. This repository showcases my exposure to clinical settings, including anesthesia and cardiothoracic critical care, through detailed observations, medical terminology, and reflections on patient care and interdisciplinary teamwork. The records demonstrate my commitment to pursuing a medical career and my ability to integrate clinical insights with technical precision.
+Welcome to my Clinical Shadowing Portfolio, a collection of de-identified notes documenting my shadowing experiences as a premed student with a computer science background. This repository showcases my exposure to clinical settings, including anesthesia and cardiothoracic critical care, through detailed observations, medical terminology, and reflections on patient care and interdisciplinary teamwork. The records demonstrate my commitment to a career as a physician and my ability to integrate clinical insights with technical precision.
 
 All notes are fully de-identified to comply with HIPAA and institutional privacy standards, removing clinician names, specific locations, and patient details. The portfolio is designed for medical school applications, professional development, and sharing with mentors, reflecting my growth in understanding healthcare delivery.
 
