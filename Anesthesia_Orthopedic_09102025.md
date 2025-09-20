@@ -21,7 +21,7 @@ On 09/10/2025, I shadowed an attending anesthesiologist and a CRNA during an ort
 - **Procedure Details**: Noted the setup of standard monitoring (e.g., ECG, pulse oximetry, blood pressure) and additional tools like neuromuscular monitoring. Airway management involved direct laryngoscopy with endotracheal tube placement, performed without complications. Bilateral breath sounds confirmed.
 - **Key Learning**: Gained understanding of induction sequencing, airway management, and the importance of monitoring to ensure patient safety during anesthesia.
 
-### Patient 2: Orthopedic Procedure (Maintenance and Emergence)
+### Orthopedic Procedure (Maintenance and Emergence)
 - **Case Overview**: Observed intraoperative maintenance and emergence for a patient post-induction during the same orthopedic procedure. The team used a volatile anesthetic and titrated intravenous sedatives to maintain anesthesia depth.
 - **Procedure Details**: Noted adjustments to anesthesia based on monitoring feedback (e.g., depth of anesthesia, vital signs). Emergence involved reversal of paralysis and discontinuation of anesthetics, with the patient achieving spontaneous ventilation and following commands before extubation.
 - **Key Learning**: Learned about real-time anesthesia adjustments, reversal agents, and the collaborative roles of the anesthesiologist, CRNA, and surgical team in ensuring a smooth emergence.
