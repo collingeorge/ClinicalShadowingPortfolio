@@ -29,7 +29,6 @@ On 09/15/2025, I shadowed an attending physician in the critical care unit of an
 ## Documentation Notes
 - **Omissions**: Specific diagnoses (e.g., valve type, coronary artery details), TTE metrics (e.g., ejection fraction, regurgitation severity), and patient comorbidities were not recorded. These should be verified from the primary medical record.
 - **Additional Details**: Names of the second clinician and nurse involved in the TTE, as well as the recommended specialist for shadowing, to be confirmed from the attending physician or chart.
-- **ASA Classification**: Not directly observed; patients likely ASA III-IV due to critical illness and complex postoperative status. Confirm from chart.
 
 ## Reflection
 This shadowing experience deepened my understanding of cardiothoracic critical care, particularly through exposure to extracorporeal support and TTE in managing complex cardiac and thoracic conditions. The palliative care discussion reinforced the importance of patient-centered approaches, while observing live TTE highlighted the precision and teamwork required in non-invasive diagnostics, especially in challenging patient populations. The physician’s mentorship and shadowing recommendations have further deepened my commitment to becoming a physician.
