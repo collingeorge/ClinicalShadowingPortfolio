@@ -22,7 +22,7 @@ On 09/15/2025, I shadowed an attending physician in the critical care unit of an
 - **Key Learning**: Gained understanding of extracorporeal support indications, mechanics, and monitoring in cardiothoracic critical care, as well as the role of TEE in assessing valve dysfunction post-intervention.
 
 ### Patient 2: Cardiac Condition with Live TTE (Postoperative, Complex Medical Needs)
-- **Case Overview**: Observed a live transthoracic echocardiogram (TTE) performed by the attending physician and another clinician, with nursing support, on a postoperative patient with complex medical needs, likely following cardiothoracic surgery. The TTE visualized cardiac structures, including a coronary artery (e.g., left anterior descending or right coronary artery) and heart valves, to assess cardiopulmonary function.
+- **Case Overview**: Observed a live transthoracic echocardiogram (TTE) performed by the attending physician and another clinician, with nursing support, on a postoperative patient with complex medical needs, likely following cardiothoracic surgery. The TTE visualized cardiac structures (e.g., left anterior descending or right coronary artery) and heart valves, to assess cardiopulmonary function.
 - **Procedure Details**: Noted the physician’s expertise in capturing high-quality TTE images despite challenges posed by the patient’s condition, which required optimized positioning and ultrasound settings. Specific findings (e.g., ejection fraction, valve function) to be confirmed from chart.
 - **Key Learning**: Learned the technical and clinical aspects of TTE in cardiothoracic critical care, particularly for complex postoperative patients, and the collaborative roles of physicians and nurses in non-invasive cardiac diagnostics.
 
