@@ -1,7 +1,6 @@
 # Shadowing Record – Anesthesiology
 
-**Date**: 09/10/2025  
-**Time**: 08:25 – 09:04  
+**Date**: September 2025
 **Total Hours**: 0.7 (includes setup and induction)  
 **Clinician**: Attending Anesthesiologist, MD; Certified Registered Nurse Anesthetist (CRNA)  
 **Location**: Academic Medical Center, Operating Room  
@@ -9,7 +8,7 @@
 **Focus**: Induction for orthopedic procedures  
 
 ## Overview
-On 09/10/2025, I shadowed an attending anesthesiologist and a CRNA during the induction phase of an orthopedic procedure, such as a fracture repair or bone grafting, at an academic medical center. The session focused on pre-anesthesia setup, induction, and airway management, providing insights into anesthesia protocols and patient safety. I exited the operating room after airway confirmation, deepening my understanding of anesthesiology’s role in surgical care.
+In September, I shadowed an attending anesthesiologist and a CRNA during the induction phase of an orthopedic procedure, such as a fracture repair or bone grafting, at an academic medical center. The session focused on pre-anesthesia setup, induction, and airway management, providing insights into anesthesia protocols and patient safety. I exited the operating room after airway confirmation, deepening my understanding of anesthesiology’s role in surgical care.
 
 ## Educational Discussion
 - **Anesthesia Protocols**: Discussed induction techniques, including the use of sedatives, analgesics, and paralytics, with the anesthesiologist. Learned about the rationale for premedication choices based on patient history and the importance of monitoring during induction.
