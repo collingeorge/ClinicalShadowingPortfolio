@@ -1,7 +1,6 @@
 # Shadowing Record – Cardiothoracic Critical Care
 
-**Date**: 09/15/2025  
-**Time**: 16:45 – 17:45  
+**Date**: September 2025 
 **Total Hours**: 1.0 (includes discussion and patient observation)  
 **Clinician**: Attending Physician, MD  
 **Location**: Academic Medical Center, Critical Care Unit  
